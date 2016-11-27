@@ -33,14 +33,17 @@ First, the components (the product names and numbers in parenthesis are just wha
 
 Total cost for the components (even taking into account that some can only be ordered 10 at a time): EUR 3.65 (LEDs are the single most expensive item on the list at 2.80EUR for 10).
 
+Here are all the connections:
+![] (https://github.com/krisjaniz/QSOP01/blob/master/qsop_project_01.png)
+
 Start with soldering the NE556D. Check that there are no solder bridges (this is easy by checking adjacent through-hole component holes for continuity with your tester (note that initially only the rows closest to the IC are connected to the IC!). Also check that the pins of the NE556D are all connected (this, again, needs only continuity testing by touching one multimeter probe to the leg of the IC and the other to a through-hole component hole attached to that leg.
 The QSOP breakout gives you all the test points you need to do these tests. Nice!
 
 I don't care much in what order you solder the components afterwards. It doesn't matter. It will be easier to solder the components first and then do the connections between pads - but you can do it in any order you like.
 Here I soldered up enough to have one LED blinking:
-https://goo.gl/photos/H8mnAiZ1PLVmVUp98
+![](https://goo.gl/photos/H8mnAiZ1PLVmVUp98)
 
-You can probably apply any voltage from 4.5V to 16V to the project after it is completed. Check NE556D datasheet (http://www.ti.com/lit/ds/symlink/ne556.pdf) for specifics.
+You can probably apply any voltage from 4.5V to 16V to the project after it is completed. Check NE556D [datasheet] (http://www.ti.com/lit/ds/symlink/ne556.pdf) for specifics.
 All 4 leds should be blinking now.
 
 I originally used tantalum capacitors on this (according to the example circuits in the datasheet, capacitors are polarized) but it seems that's not necessary.
