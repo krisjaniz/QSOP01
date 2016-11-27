@@ -20,14 +20,14 @@ Practice is useless if you don't know if you have succeeded - or if making a mis
 
 First, the components (the product names and numbers in parenthesis are just what I used, it is not critical to use the same products or even the same values, this circuit is not picky):
 |Count|Name|Product code|Notes|
-|-----|----|------------|-----|
-|1 |NE556D timer|TEXAS INSTRUMENTS  NE556D  TIMER DUAL PRECISION, SOIC14, 556|NE556D||
-|4 |LEDs|MULTICOMP  OVS-0801  LED, White, SMD, 1.25mm x 1.4mm, 20 mA, 3.2 V|OVS-0801||
-|2 |1µF capacitors|MULTICOMP  MC0805F105Z160CT  SMD Multilayer Ceramic Capacitor, 0805 [2012 Metric], 1 µF, 16 V, +80%, -20%, Y5V, MC Series|MC0805F105Z160CT||
-|2 |0.01µF capacitors|MULTICOMP  MC0805B103K500CT  SMD Multilayer Ceramic Capacitor, 0805 [2012 Metric], 0.01 µF, 50 V, ± 10%, X7R, MC Series|MC0805B103K500CT|these are optional but don't cost anything so why not, they are good for practice|
-|2 |100kOhm resistors|MULTICOMP  MC01W08051100K  SMD Chip Resistor, Thick Film, 100 kohm, 150 V, 0805 [2012 Metric], 100 mW, ± 1%, MC Series|MC01W08051100K)||
-|2 |220kOhm resistors|MULTICOMP  MC01W08051220K  SMD Chip Resistor, 220 kohm, 150 V, 0805 [2012 Metric], 100 mW, ± 1%, MC Series|MC01W08051220K)||
-|4 |180Ohm resistors|MULTICOMP  MC01W08051180R  SMD Chip Resistor, Thick Film, 180 ohm, 150 V, 0805 [2012 Metric], 100 mW, ± 1%, MC Series|MC01W08051180R)|Value depends on the LEds you use|
+| ---- | ---- | ------------ | ----- |
+| 1 | NE556D timer | TEXAS INSTRUMENTS  NE556D  TIMER DUAL PRECISION, SOIC14, 556 | NE556D | |
+| 4 | LEDs | MULTICOMP  OVS-0801  LED, White, SMD, 1.25mm x 1.4mm, 20 mA, 3.2 V | OVS-0801 | |
+| 2 | 1µF capacitors | MULTICOMP  MC0805F105Z160CT  SMD Multilayer Ceramic Capacitor, 0805 [2012 Metric], 1 µF, 16 V, +80%, -20%, Y5V, MC Series | MC0805F105Z160CT | |
+| 2 | 0.01µF capacitors | MULTICOMP  MC0805B103K500CT  SMD Multilayer Ceramic Capacitor, 0805 [2012 Metric], 0.01 µF, 50 V, ± 10%, X7R, MC Series | MC0805B103K500CT | these are optional but don't cost anything so why not, they are good for practice |
+| 2 | 100kOhm resistors | MULTICOMP  MC01W08051100K  SMD Chip Resistor, Thick Film, 100 kohm, 150 V, 0805 [2012 Metric], 100 mW, ± 1%, MC Series | MC01W08051100K) | |
+| 2 | 220kOhm resistors | MULTICOMP  MC01W08051220K  SMD Chip Resistor, 220 kohm, 150 V, 0805 [2012 Metric], 100 mW, ± 1%, MC Series | MC01W08051220K) | |
+| 4 | 180Ohm resistors | MULTICOMP  MC01W08051180R  SMD Chip Resistor, Thick Film, 180 ohm, 150 V, 0805 [2012 Metric], 100 mW, ± 1%, MC Series | MC01W08051180R) | Value depends on the LEds you use|
 
 Total cost for the components (even taking into account that some can only be ordered 10 at a time): EUR 3.65 (LEDs are the single most expensive item on the list at 2.80EUR for 10).
 
