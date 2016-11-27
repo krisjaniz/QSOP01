@@ -19,7 +19,8 @@ I chose this chip because it was one that satisfied my criteria for practice sol
 Practice is useless if you don't know if you have succeeded - or if making a mistake means you have to go around desoldering and resoldering connections until it works. I had that with PissOff - my first SMD soldering "practice". The LED would light up but there was no function. I must have went around the board with the iron at least three times accidentally bridging connections and desoldering components until I got it working. I still don't know what I did wrong the first time or how I could have found that by looking. If you, like me, are unsure of your SMD soldering skills, this project should help you in the right direction.
 
 First, the components (the product names and numbers in parenthesis are just what I used, it is not critical to use the same products or even the same values, this circuit is not picky):
-|Count|Name|Product code|Notes|
+
+| Count | Name | Product code | Notes |
 | ---- | ---- | ------------ | ----- |
 | 1 | NE556D timer | TEXAS INSTRUMENTS  NE556D  TIMER DUAL PRECISION, SOIC14, 556 | NE556D | |
 | 4 | LEDs | MULTICOMP  OVS-0801  LED, White, SMD, 1.25mm x 1.4mm, 20 mA, 3.2 V | OVS-0801 | |
