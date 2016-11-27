@@ -41,7 +41,7 @@ The QSOP breakout gives you all the test points you need to do these tests. Nice
 
 I don't care much in what order you solder the components afterwards. It doesn't matter. It will be easier to solder the components first and then do the connections between pads - but you can do it in any order you like.
 Here I soldered up enough to have one LED blinking:
-![](https://goo.gl/photos/H8mnAiZ1PLVmVUp98)
+![](https://github.com/krisjaniz/QSOP01/blob/master/20161126_021910-ANIMATION.gif)
 
 You can probably apply any voltage from 4.5V to 16V to the project after it is completed. Check NE556D [datasheet] (http://www.ti.com/lit/ds/symlink/ne556.pdf) for specifics.
 All 4 leds should be blinking now.
