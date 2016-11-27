@@ -1,7 +1,7 @@
 # QSOP01
 Project #01 with the Boldport Club QSOP and 0805 breakout and soldering practice board
 
-http://www.boldport.club/shop/product/437246682
+[Boldport Club QSOP and 0805 breakout and soldering practice board] (http://www.boldport.club/shop/product/437246682)
 
 Practice project 01
 Level SOIC14+16x0805
@@ -11,10 +11,10 @@ Disclaimer - I am a complete newbie, anything I say could be completely wrong or
 In this "project" we solder a NE556D SOIC14 dual timer to the QSOP breakout. That in itself is both easier and harder than soldering proper QSOP ICs. It is easier because there are fewer pins and they are not so close together. Harder, because the pins are wider, which makes positioning and critical and bridging more of a problem.
 
 I chose this chip because it was one that satisfied my criteria for practice soldering better than any other I could find:
-1) cheap;
-2) sturdy (will survive abuse);
-3) you can see it (somewhat) working even if you make a lot of mistakes;
-4) mistakes are easy to find and limit troubleshooting to a fairly small number of connections.
+1. cheap;
+2. sturdy (will survive abuse);
+3. you can see it (somewhat) working even if you make a lot of mistakes;
+4. mistakes are easy to find and limit troubleshooting to a fairly small number of connections.
 
 Practice is useless if you don't know if you have succeeded - or if making a mistake means you have to go around desoldering and resoldering connections until it works. I had that with PissOff - my first SMD soldering "practice". The LED would light up but there was no function. I must have went around the board with the iron at least three times accidentally bridging connections and desoldering components until I got it working. I still don't know what I did wrong the first time or how I could have found that by looking. If you, like me, are unsure of your SMD soldering skills, this project should help you in the right direction.
 
