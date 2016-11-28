@@ -49,5 +49,4 @@ All 4 leds should be blinking now.
 I originally used tantalum capacitors on this (according to the example circuits in the datasheet, capacitors are polarized) but it seems that's not necessary.
 
 Here is a short movie of it working:
-![link](https://goo.gl/photos/m7Y6cHpjvFfkDMJM6)
 https://goo.gl/photos/cWP9xyLfSVoEmAzj6
