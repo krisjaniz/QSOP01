@@ -50,5 +50,11 @@ All 4 leds should be blinking now.
 
 I originally used tantalum capacitors on this (according to the example circuits in the datasheet, capacitors are polarized) but it seems that's not necessary.
 
+Here is the backside of my board:
+![] (https://github.com/krisjaniz/QSOP01/blob/master/board_backside.jpg)
+
+It's not pretty - the nature of the QSOP breakout means there are a lot of jumper wires going all over the place. As you can see, I soldered some wires directly to the QSOP breakout on the other side of the board. You can use this technique on some other connections as well. Also you can deliberately bridge a couple of pins of the 556 with the adjacent pads. Here I have placed red blocks on the pins that could be bridged instead of adding a jumper. I myself got pretty annoyed with the jumpers so maybe this would make it easier for you while also keeping the board tidier:
+![] (https://github.com/krisjaniz/QSOP01/blob/master/qsop_project_02.png)
+
 Here is a short movie of it working:
 https://goo.gl/photos/cWP9xyLfSVoEmAzj6
