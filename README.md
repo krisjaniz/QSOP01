@@ -10,7 +10,7 @@ Disclaimer - I am a complete newbie, anything I say could be completely wrong or
 
 This is probably a textbook example of using a 556 timer. If not, the textbook examples are probably better.
 
-In this "project" we solder a NE556D SOIC14 dual timer to the QSOP breakout. That in itself is both easier and harder than soldering proper QSOP ICs. It is easier because there are fewer pins and they are not so close together. Harder, because the pins are wider, which makes positioning and critical and bridging more of a problem.
+In this "project" we solder a NE556D SOIC14 dual timer to the QSOP breakout. That in itself is both easier and harder than soldering proper QSOP ICs. It is easier because there are fewer pins and they are not so close together. Harder, because the pins are wider, which makes positioning critical and bridging more of a problem.
 
 I chose this chip because it was one that satisfied my criteria for practice soldering better than any other I could find:
 
